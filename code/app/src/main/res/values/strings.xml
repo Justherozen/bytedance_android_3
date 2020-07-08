@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="duration_hint">请输入动画时长</string>
+</resources>
