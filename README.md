@@ -24,11 +24,11 @@
 
 颜色、大小、透明度均发现变化
 
-可以调整 RGB值改变颜色。（因为自己写的调色器只能用几种最基本的颜色，所以选择了使用jcenter中已经封装好的调色器，https://github.com/Pes8/android-material-color-picker-dialog）
+可以调整 RGB值改变颜色。（因为自己写的调色器只能用几种最基本的颜色，所以选择了使用jcenter中已经封装好的调色器，[https://github.com/Pes8/android-material-color-picker-dialog ](https://github.com/Pes8/android-material-color-picker-dialog )）
 
 ![image-20200708232519308](readme.assets/image-20200708232519308.png)
 
-调整单次执行时间（使用到了material dialog，https://github.com/afollestad/material-dialogs）
+调整单次执行时间（使用到了material dialog，[https://github.com/afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)）
 
 ![image-20200708232532755](readme.assets/image-20200708232532755.png)
 
